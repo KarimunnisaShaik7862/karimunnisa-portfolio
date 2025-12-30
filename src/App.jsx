@@ -6,7 +6,7 @@ export default function Portfolio() {
 
   const skills = {
     languages: ['Python', 'JavaScript (ES6+)', 'HTML5', 'CSS3', 'SQL'],
-    frameworks: ['React.js', 'Node.js', 'Express.js', 'Django', 'Flask', 'FastAPI'],
+    frameworks: ['React.js', 'Node.js', 'Express.js', 'Django', 'Flask', 'FastAPI','PHP'],
     databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
     tools: ['Git', 'GitHub', 'Postman', 'VS Code', 'RESTful APIs', 'OAuth', 'JWT'],
     methodologies: ['Agile', 'Scrum', 'Version Control', 'API Integration']
